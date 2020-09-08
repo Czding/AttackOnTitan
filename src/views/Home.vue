@@ -1,8 +1,6 @@
 <template>
   <div class="home">
-    <span>名称</span>
-    <el-input v-model="name" style="width: 140px"></el-input>
-    <el-button type="primary" @click="submit">提交</el-button>
+    
   </div>
 </template>
 
